@@ -1,0 +1,239 @@
+header{
+    text-align: center;
+    background-size: cover;
+    color: white;
+    font-size: 23px;
+}
+.img1{
+      margin: 45px 0px 0px 0px;
+    border:5px solid black;
+    border-radius: 25px;
+}
+.img2{
+      margin: 45px 0px 0px 0px;
+    border:5px solid black;
+    border-radius: 25px;
+    
+}
+ul{
+    padding: 10px 10px 10px 10px;
+    background: rgba(0,0,0,0.5);
+    color: white;
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    color: white;
+}
+a{
+    color:white;
+}
+h1{
+    font-size: 75px;
+    text-align: center;
+    margin: 2px 30px 30px 80px;
+    color: white;
+}
+img{
+    margin: 45px 0px 0px 0px;
+    border:5px solid black;
+    border-radius: 25px;
+    margin: 50px 30px 30px 80px;
+    
+}
+article{
+    width: 510px;
+    padding: 20px 20px 20px 20px;
+    margin: 0px auto;
+}
+
+@media(maxwidth: 500px)
+{
+   body{
+         background: white;
+    }
+ 
+    h1{
+         font-size: 45px;
+         color: white;
+    }
+    li{
+         display:block;
+         padding: 5px;
+         color: white;
+    }
+}
+
+.div{
+    position: relative;
+    left:120px;
+    right:300px;
+}
+
+.paragraph1 {
+ position: relative;
+    right:575px;
+    color: white;
+}
+
+.paragraph2 {
+position: relative;
+    bottom: 355px;
+    color: white;
+}
+
+
+.paragraph3 {
+position: relative;
+    bottom: 755px;
+    left: 575px;
+    color: white;
+}
+.img3{
+    position: relative;
+    top:1250px;
+    right: 100px;
+   width: 400px;
+   height: 210px; 
+}
+
+.img4{
+    position: relative;
+    top:1250px;
+    right:100px;
+}
+.img1{
+    position: relative;
+    top:270px;
+    left: 600px;
+}
+.img2{
+    position: relative;
+    top:270px;
+    left: 600px;
+    
+}
+.img5{
+    position: relative;
+    width:390px ;
+    height: 170px;
+    top:910px ;
+    right: 650px;
+    
+}
+body{
+    background-image: url(../Assest/bck.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    color: white;
+}
+.historyh1{
+    color:white;
+}
+.oldimg3{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    right: 85px;
+    bottom:80px;
+    
+}
+.oldimg2 {
+width: 1100px;
+height:450px;
+position: relative;
+bottom:100px;
+right:140px;
+
+}
+
+.oldimg1 {
+width: 300px;
+    height: 470px;
+    position: relative;
+    left: 1450px;
+    bottom:650px;
+}
+.p1{
+    position:relative;
+    bottom:120px;
+    right:430px;
+}
+.p2{
+    text-align: left;
+    margin-left: 600px;
+    width: 300px;
+    float: left;
+    position:relative;
+    bottom: 670px;
+    right:80px;
+}
+.p3{
+    position: relative;
+    right: 50px;
+    bottom: 670px;
+    text-align: left;
+    width: 300px;
+    float: right;
+}
+
+
+
+
+
+
+.tourist h1 {
+font-size: 75px;
+    text-align: center;
+    margin: 2px 30px 30px 80px;
+    color: white;
+}
+
+.art{
+width: 300px;
+  height: 470px;
+  position: relative;
+  left:1100px;
+  bottom:30px;
+}
+.tourist p{
+    position: relative;
+    top:30px;
+    right:510px;
+}
+
+.muneeb1 {
+float:right;
+    color: white;
+    width:400px;
+    position:relative;
+    margin-right: 530px;
+    margin-bottom: 300px;
+    right:800px;
+    
+}
+
+
+
+.cow {
+width:580px;
+height:350px;
+
+}
+
+
+.midi {
+width:580px;
+height:350px;
+position: relative;
+top:400px;
+left: 300px;
+}
+
+
+
+.sahul {
+
+}

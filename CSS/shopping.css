@@ -1,0 +1,149 @@
+.download{
+     margin: 45px 0px 0px 0px;
+    border:5px solid black;
+    border-radius: 25px;
+    width: 420px;
+    position: relative ;
+    left:120px ;
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
+body{
+    background-image: url(../Assest/bck.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    float:right;
+    color: white;
+    width:1000px;
+    position: relative;
+    bottom: 240px;
+    right:320px;
+    
+}
+.download2{
+    margin: 45px 0px 0px 0px;
+    border:5px solid black;
+    border-radius: 25px;
+    width: 420px;
+    position: relative ;
+    left:720px ;
+    top:230px
+    
+}
+.p2{
+    float:right;
+    color: white;
+    width:1000px;
+    position: relative;
+    right:750px;
+    bottom:200px;
+   
+}
+.download3{
+    margin: 45px 0px 0px 0px;
+    border:5px solid black;
+    border-radius: 25px;
+    width: 420px;
+    position: relative ;
+    right:730px ;
+    top:500px
+}
+.p3{
+   float:right;
+    color: white;
+    width:1000px;
+    position: relative;
+    bottom:200px;}
+    
+   
+
+
+.body9 {
+background-image: url(../Assest/bck.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.tourist {
+background-image: url(../Assest/bck.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.musem {
+width: 300px;
+  height: 470px;
+  position:relative;
+  right:5px;
+  bottom:55px;}
+
+.trafford2{
+width: 950px;
+height:490px;
+position:relative;
+left:390px;
+bottom:600px;
+
+}
+
+.muneeb2 {
+float:right;
+    color: white;
+    width:400px;
+    position: relative;
+    right:300px;
+ 
+}
+
+.accomodationsheader {
+font-size: 70px;
+
+}
+
+.muneeb3 {
+position: relative;
+bottom: 400px;
+}
+
+.trafford34 {
+position: relative;
+bottom:-300px;
+}
+
+.mu{
+    right:300px;
+}
+.pm{
+   float: left;
+   left: 150px;
+}
+
+.muneebkamran6 {
+bottom: 1000px;
+position: absolute;
+}
+.We{
+   position:relative;
+left:100px;
+bottom:600px; 
+}
+
+.leo {
+  position:relative;
+left:1000px;
+bottom:600px; 
+width:1000px;
+}
+.sahul {
+position:relative;
+left:1000px;
+bottom:600px; 
+width:1000px;
+}
